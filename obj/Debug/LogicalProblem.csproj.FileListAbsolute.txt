@@ -1,0 +1,2 @@
+C:\Users\MY\source\repos\LogicalProblem\LogicalProblem\obj\Debug\LogicalProblem.csproj.AssemblyReference.cache
+C:\Users\MY\source\repos\LogicalProblem\LogicalProblem\obj\Debug\LogicalProblem.csproj.CoreCompileInputs.cache
